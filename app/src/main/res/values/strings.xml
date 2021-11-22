@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="MojNapis">Napis</string>
+    <string name="Wpisz_napis">Napis \n wybrany \n string</string>
+</resources>
